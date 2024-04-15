@@ -1,6 +1,6 @@
 # simple-dark-mode-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple dark mode logic (toggle) with Tailwind
 
 ## Recommended IDE Setup
 
